@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1> Hi 👋, I'm Andre. </h1>
-  <h1> I am a student. Education - information security </h1>
+  <h2> Hi 👋, I'm Andre. </h2>
+  <h3> I am a student. Education - information security </h3>
 </div>
 <!--
 **DworkinFromChaos/DworkinFromChaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
