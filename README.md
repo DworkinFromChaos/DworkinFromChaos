@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Andre. 
-## I am a student.
-## Education - information security
+# I am a student.
+# Education - information security
 <!--
 **DworkinFromChaos/DworkinFromChaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
