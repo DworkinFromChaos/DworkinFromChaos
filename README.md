@@ -2,6 +2,9 @@
   <h2> Hi 👋, I'm Andre. </h2>
   <h3> I am a student. Education - information security </h3>
 </div>
+[![Codewars Badge](https://www.codewars.com/users/DworkinFromChaos/badges/large)](https://www.codewars.com/users/DworkinFromChaos)
+
+
 <!--
 **DworkinFromChaos/DworkinFromChaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
