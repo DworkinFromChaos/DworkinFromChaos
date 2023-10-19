@@ -2,7 +2,7 @@
   <h2> Hi 👋, I'm Andre. </h2>
   <h3> I am a student. Education - information security </h3>
 </div>
-[![Codewars Badge](https://www.codewars.com/users/DworkinFromChaos/badges/large)](https://www.codewars.com/users/DworkinFromChaos)
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
 
 
 <!--
